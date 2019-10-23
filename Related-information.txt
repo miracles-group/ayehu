@@ -1,0 +1,32 @@
+URL: https://34.231.138.35:8442
+User: dev9765
+Password: <7)VkuVD
+Company: Dev2
+
+-----------------------
+c:\Libs\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\Libs\System.Net.Http.dll
+----------------------
+Upfile git
+
+
+As discussed, here are the expectations for our 1st milestone:
+Develop 'Amazon S3 Upload File' activity in Ayehu NG:
+1.1. Front-end code in JSON.
+1.2. Back-end code in VB or CS.
+Once done, send us the code for a quick review on our end.
+Once approved, upload a new folder into the Ayehu GitHub "custom-activities" repository under Amazon S3 folder (https://github.com/Ayehu/custom-activities/tree/master/Amazon%20S3), with the following items:
+3.1. JSON file
+3.2. CS/VB file
+3.3. README file with a short description on what the activity does.
+Here are the expectations for our 2nd milestone:
+Develop 'Box Copy File' activity in Ayehu NG:
+1.1. Front-end code in JSON.
+1.2. Back-end code in VB or CS.
+Once done, send us the code for a quick review on our end.
+Once approved, upload a new folder into the Ayehu GitHub "custom-activities" repository under Box folder (https://github.com/Ayehu/custom-activities/tree/master/Box), with the following items:
+3.1. JSON file
+3.2. CS/VB file
+3.3. README file with a short description on what the activity does.
+Thank you!
+Jacky
